@@ -1,0 +1,173 @@
+{
+  "username": "Jay",
+  "password": "chefitup-teacher",
+  "name": "Jay Verma",
+  "classList": [
+    {
+      "name": "Indian Cuisines",
+      "description": "The cuisine of India is one of the world's most diverse cuisines, characterized by its sophisticated and subtle use of the many spices, vegetables, grains and fruits grown across India.",
+      "recipes": [
+        {
+          "name": "Mango Lassi",
+          "description": "Mango lassi is made from yogurt, milk and mango pulp. It may be made with or without added sugar. In various parts of Canada, mango lassi is a cold drink consisting of sweetened kesar mango pulp mixed with yogurt, cream, or ice cream.",
+          "ingredients": [
+            {
+              "name": "Mango",
+              "imagePath": "somepath",
+              "type": "Fruit",
+              "state": "solid",
+              "description": "Mangoes are juicy stone fruit (drupes) produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for this edible fruit."
+            }
+          ],
+          "utensils": [
+            {
+              "name": "Grinder",
+              "imagePath": "somepath",
+              "volume": "1L",
+              "properties": " It is compact on size and plays a major role in preparation of food. It usually comes with three jars crafted out of high quality stainless steel.",
+              "description": "Grinder is an electronic kitchen appliance that used to mix and grind various food items"
+            }
+          ],
+          "steps": [
+            "Add all of the ingredients to the bowl of a blender.",
+            "    Puree until smooth. Serve immediately!\n\nRecommended Products"
+          ],
+          "individualStudents": [
+            {
+              "username": "Rohit",
+              "password": "chefitup-student",
+              "name": "Rohit Singh",
+              "classList": [],
+              "type": "student",
+              "cookedRecipes": []
+            }
+          ]
+        }
+      ],
+      "students": [
+        {
+          "username": "Rohit",
+          "password": "chefitup-student",
+          "name": "Rohit Singh",
+          "classList": [],
+          "type": "student",
+          "cookedRecipes": [
+            {
+              "name": "Mango Lassi",
+              "description": "Mango lassi is made from yogurt, milk and mango pulp. It may be made with or without added sugar. In various parts of Canada, mango lassi is a cold drink consisting of sweetened kesar mango pulp mixed with yogurt, cream, or ice cream.",
+              "ingredients": [
+                {
+                  "name": "Mango",
+                  "imagePath": "somepath",
+                  "type": "Fruit",
+                  "state": "solid",
+                  "description": "Mangoes are juicy stone fruit (drupes) produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for this edible fruit."
+                }
+              ],
+              "utensils": [
+                {
+                  "name": "Grinder",
+                  "imagePath": "somepath",
+                  "volume": "1L",
+                  "properties": " It is compact on size and plays a major role in preparation of food. It usually comes with three jars crafted out of high quality stainless steel.",
+                  "description": "Grinder is an electronic kitchen appliance that used to mix and grind various food items"
+                }
+              ],
+              "steps": [
+                "Add all of the ingredients to the bowl of a blender.",
+                "    Puree until smooth. Serve immediately!\n\nRecommended Products"
+              ],
+              "individualStudents": [
+                {
+                  "username": "Rohit",
+                  "password": "chefitup-student",
+                  "name": "Rohit Singh",
+                  "classList": [],
+                  "type": "student",
+                  "cookedRecipes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "type": "teacher",
+  "draftRecipes": [
+    {
+      "name": "Mango Lassi",
+      "description": "Mango lassi is made from yogurt, milk and mango pulp. It may be made with or without added sugar. In various parts of Canada, mango lassi is a cold drink consisting of sweetened kesar mango pulp mixed with yogurt, cream, or ice cream.",
+      "ingredients": [
+        {
+          "name": "Mango",
+          "imagePath": "somepath",
+          "type": "Fruit",
+          "state": "solid",
+          "description": "Mangoes are juicy stone fruit (drupes) produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for this edible fruit."
+        }
+      ],
+      "utensils": [
+        {
+          "name": "Grinder",
+          "imagePath": "somepath",
+          "volume": "1L",
+          "properties": " It is compact on size and plays a major role in preparation of food. It usually comes with three jars crafted out of high quality stainless steel.",
+          "description": "Grinder is an electronic kitchen appliance that used to mix and grind various food items"
+        }
+      ],
+      "steps": [
+        "Add all of the ingredients to the bowl of a blender.",
+        "    Puree until smooth. Serve immediately!\n\nRecommended Products"
+      ],
+      "individualStudents": [
+        {
+          "username": "Rohit",
+          "password": "chefitup-student",
+          "name": "Rohit Singh",
+          "classList": [],
+          "type": "student",
+          "cookedRecipes": []
+        }
+      ]
+    }
+  ],
+  "specialRecipes": [
+    {
+      "name": "Mango Lassi",
+      "description": "Mango lassi is made from yogurt, milk and mango pulp. It may be made with or without added sugar. In various parts of Canada, mango lassi is a cold drink consisting of sweetened kesar mango pulp mixed with yogurt, cream, or ice cream.",
+      "ingredients": [
+        {
+          "name": "Mango",
+          "imagePath": "somepath",
+          "type": "Fruit",
+          "state": "solid",
+          "description": "Mangoes are juicy stone fruit (drupes) produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for this edible fruit."
+        }
+      ],
+      "utensils": [
+        {
+          "name": "Grinder",
+          "imagePath": "somepath",
+          "volume": "1L",
+          "properties": " It is compact on size and plays a major role in preparation of food. It usually comes with three jars crafted out of high quality stainless steel.",
+          "description": "Grinder is an electronic kitchen appliance that used to mix and grind various food items"
+        }
+      ],
+      "steps": [
+        "Add all of the ingredients to the bowl of a blender.",
+        "    Puree until smooth. Serve immediately!\n\nRecommended Products"
+      ],
+      "individualStudents": [
+        {
+          "username": "Rohit",
+          "password": "chefitup-student",
+          "name": "Rohit Singh",
+          "classList": [],
+          "type": "student",
+          "cookedRecipes": []
+        }
+      ]
+    }
+  ]
+}
